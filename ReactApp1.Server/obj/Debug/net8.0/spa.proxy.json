@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm start",
+"WorkingDirectory": "D:\\trupti\\DanSiegel\\ThemeApplicationDemo\\ReactApp1.Server\\..\\reactapp1.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}
